@@ -1,0 +1,22 @@
+{
+  "name": "oxyz-project",
+  "version": "0.1.0",
+  "description": "Multipurpose HTML Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OXAYAZA/oxyz-project.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "OXAYAZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OXAYAZA/oxyz-project/issues"
+  },
+  "homepage": "https://github.com/OXAYAZA/oxyz-project#readme"
+}

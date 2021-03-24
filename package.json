@@ -21,6 +21,6 @@
   "homepage": "https://github.com/OXAYAZA/oxyz-project#readme",
   "devDependencies": {
     "oxyz-build": "1.2.2",
-    "oxyz-express": "1.0.2"
+    "oxyz-express": "1.0.3"
   }
 }

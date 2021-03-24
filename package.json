@@ -1,10 +1,10 @@
 {
   "name": "oxyz-project",
   "version": "0.1.0",
-  "description": "Multipurpose HTML Project",
+  "description": "Multipurpose Website Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/OXAYAZA/oxyz-project/issues"
   },
-  "homepage": "https://github.com/OXAYAZA/oxyz-project#readme"
+  "homepage": "https://github.com/OXAYAZA/oxyz-project#readme",
+  "devDependencies": {
+    "oxyz-build": "1.2.2",
+    "oxyz-express": "1.0.2"
+  }
 }

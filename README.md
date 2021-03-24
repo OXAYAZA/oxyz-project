@@ -1,2 +1,2 @@
 # oxyz-project
-Multipurpose HTML Project
+Multipurpose Website Project

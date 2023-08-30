@@ -4,6 +4,9 @@
 # Installable modules
 /node_modules
 
+# Package Lock
+/package-lock.json
+
 # Trash
 *.db
 *.map

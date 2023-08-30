@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/OXAYAZA/oxyz-project#readme",
   "devDependencies": {
-    "oxyz-build": "1.2.2",
-    "oxyz-express": "1.0.3"
+    "oxyz-build": "1.2.3",
+    "oxyz-express": "1.0.4"
   }
 }
